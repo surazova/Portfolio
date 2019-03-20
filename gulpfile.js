@@ -17,6 +17,7 @@ var SCSS_DEST = "./src/Assets/css";
 // pipe is a method within gulp that allows us to chain tasks together
 gulp.task("compile_scss", function() {
   gulp
+
     .src(SCSS_SRC)
     .pipe(sass().on("error", sass.logError))
     .pipe(minifyCSS())
