@@ -1,0 +1,21 @@
+header {
+  display: block;
+  width: 100%;
+  background: black;
+  color: white;
+
+
+}
+
+header .logo {
+  position: abolute: 
+  top: 50%;
+  left: 15px; 
+  @include translateY(-50%);
+}
+
+
+nav {
+  position: absolute;
+  
+}
