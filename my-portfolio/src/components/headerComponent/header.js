@@ -1,11 +1,9 @@
 import React, { Component } from "react";
 
-import "./Assets/css/default.min.css";
-
-class App extends Component {
+class Header extends Component {
   render() {
     return <div className="App" />;
   }
 }
 
-export default App;
+export default Header;
