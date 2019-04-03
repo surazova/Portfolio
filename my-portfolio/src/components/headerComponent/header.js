@@ -22,5 +22,6 @@ class Header extends Component {
       </header>
     );
   }
+}
 
 export default Header;
