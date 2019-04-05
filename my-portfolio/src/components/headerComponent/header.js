@@ -21,10 +21,7 @@ class Header extends Component {
         </nav>
       </header>
     );
-  
+  }
 }
-
-
-
 
 export default Header;
