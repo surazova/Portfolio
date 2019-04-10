@@ -15,13 +15,12 @@ class Header extends Component {
               <a href="#">Products</a>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <a href="#">Home</a>
             </li>
           </ul>
         </nav>
       </header>
     );
-  }
+  
 }
-
 export default Header;
