@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+ React, { Component } from "react";
 
 // components
 import Header from "./my-portfolio/src/components/headerComponent/header";
